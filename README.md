@@ -9,5 +9,5 @@ CMPS310-B52-Software Engineering Project-Group5.
 
 ## ✏️ Project progress
 * **Our Project board GitHub Project** https://github.com/users/latifa-alnaemi/projects/2/views/1
-* **The Main Repository:**https://github.com/latifa-alnaemi/Team-B52-GU5.git
+* **The Main Repository:** https://github.com/latifa-alnaemi/Team-B52-GU5.git
 
