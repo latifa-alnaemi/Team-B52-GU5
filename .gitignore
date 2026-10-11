@@ -1,3 +1,12 @@
-PearMart -inventory-system.vpp.bak_000f
-*.bak_001d
-*.bak_000f
+# Visual Paradigm temporary and lock files
+*.vpp*~
+*.lock
+._*
+
+# Office documents temp files
+~$*.docx
+~$*.xlsx
+
+# Operating system files[cite: 1]
+.DS_Store
+Thumbs.db
