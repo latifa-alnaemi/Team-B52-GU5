@@ -1,12 +1,12 @@
-# Visual Paradigm temporary and lock files
+# Visual Paradigm 
 *.vpp*~
 *.lock
 ._*
 
-# Office documents temp files
+# Office documents 
 ~$*.docx
 ~$*.xlsx
 
-# Operating system files[cite: 1]
+# Operating system files
 .DS_Store
 Thumbs.db
