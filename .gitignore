@@ -3,7 +3,7 @@
 *.lock
 ._*
 
-# Office documents 
+# Office word documents 
 ~$*.docx
 ~$*.xlsx
 
