@@ -3,9 +3,9 @@
 CMPS310-B52-Software Engineering Project-Group5.
 
 ## Team, Users and Roles
-* **[Latifa AlNaemi - 202405639]** (`[latifa-alnaemi]`) - Product Owner
-* **[Salwa Alfarzan - 202405400]** (`[S31A03]`) - Scrum Master
-* **[Aisha Al-Kaabi - 202304167]** (`[aa2304167]`) - Developer
+* **Latifa AlNaemi - 202405639** (latifa-alnaemi) - Product Owner
+* **Salwa Alfarzan - 202405400** (S31A03) - Scrum Master
+* **Aisha Al-Kaabi - 202304167** (aa2304167) - Developer
 
 ## Project progress
 * **Our Project board GitHub Project** https://github.com/users/latifa-alnaemi/projects/2/views/1
